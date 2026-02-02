@@ -36,7 +36,7 @@ with promising accuracy, demonstrating potential real-world usability.
 The project is deployed as an interactive web application using Streamlit.
 
 🔗 Live App:  
-https://structuraldefect-july2025ggn-iccyqarf89ruvlnwjgdkx.streamlit.app/
+https://structural-defect-detection-ls7ay6pgenupcnqzngmgym.streamlit.app/
 
 ## How to Run Locally
 1. Clone the repository  
